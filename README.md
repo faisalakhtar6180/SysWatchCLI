@@ -5,7 +5,7 @@
 ## Preview
 
 ![SysWatchCLI Screenshot](screenshots/dashboard.png)
-<img src="screenshots/dashboard.png" width="700">
+
 
 
 ## Features
