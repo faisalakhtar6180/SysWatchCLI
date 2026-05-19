@@ -1,0 +1,30 @@
+# SysWatchCLI — .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Runtime-generated data
+logs/
+database/
+*.db
+*.csv
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Docker
+.dockerignore
