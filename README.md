@@ -1,6 +1,12 @@
 # SysWatch 🖥️
 > Lightweight real-time Linux terminal monitor — minimal, fast, clean.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Platform-Linux-green?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/CLI-Rich-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+</p>
 
 ## Preview
 
